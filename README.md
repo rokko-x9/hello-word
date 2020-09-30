@@ -1,2 +1,5 @@
 # hello-word
-lol
+
+this is a bit about yourself
+nothing too particularly interesting
+as you can clearly see.
